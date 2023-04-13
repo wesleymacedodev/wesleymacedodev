@@ -1,14 +1,14 @@
 # <img style="width: 40px" src="https://user-images.githubusercontent.com/123600728/231845348-202c314d-f3cf-4db7-b10a-55ddf9ce5ab2.png"/> Olá, eu sou Wesley Macedo! 
 
+##### Curiosidades sobre mim!
 <ul style="list-style: '⭐ '">
-      <span style="font-weight:bold">Curiosidades sobre mim!</span>
-  <li>Curto muito a área de tecnologia.</li>
-  <li>Sou apaixonado por programação.</li>
-  <li>Estou cursando ADS.</li>
-  <li>Atualmente estou focando no desenvolvimento Front-End.</li>
+  <li>⭐ Curto muito a área de tecnologia.</li>
+  <li>⭐ Sou apaixonado por programação.</li>
+  <li>⭐ Estou cursando ADS.</li>
+  <li>⭐ Atualmente estou focando no desenvolvimento Front-End.</li>
 </ul>
 
-![Wesley Macedo GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleymacedodev&theme=dracula&show_icons=true&locale=pt-br)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=wesleymacedodev&theme=dracula&show_icons=true&locale=pt-br"></p>
 
 <p align="center" style="font-weight: bold">[ Tecnologias Que Utilizo ]</p>
 <div style="display: inline-block;">
